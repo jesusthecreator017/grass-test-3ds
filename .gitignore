@@ -1,0 +1,6 @@
+*.elf
+*.3dsx
+*.shbin
+shader_shbin.s
+*.o
+.DS_Store
